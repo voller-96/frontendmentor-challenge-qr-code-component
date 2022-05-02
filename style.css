@@ -19,6 +19,7 @@ body {
   height:497px;
   border-radius: 20px;
   padding: 16px;
+  box-shadow:25px 25px 25px rgba(0, 0, 0, 0.0476518);
 }
 
 .image {
