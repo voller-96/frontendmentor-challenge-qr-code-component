@@ -8,5 +8,5 @@ Desafio de front-end da frontendmentor. Referente ao qr-code challenge.
 </ul>
 
 # Imagens(desktop + responsivo)
-<img src="/images/desktop-qr.png" alt="image-desktop">
-<img src="/images/responsivo-qr.png" alt="image-responsivo">
+<img src="/images/qr-code-desktop.png" alt="image-desktop">
+<img src="/images/qr-code-mobile.png" alt="image-responsivo">
