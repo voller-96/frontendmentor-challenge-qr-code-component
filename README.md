@@ -5,6 +5,7 @@ Desafio de front-end da frontendmentor. Referente ao qr-code challenge.
 <ul>
   <li> HTML5 </li>
   <li> CSS3 </li>
+  <li> Media Queries </li>
 </ul>
 
 # Imagens(desktop + responsivo)
